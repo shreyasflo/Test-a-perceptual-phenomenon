@@ -1,2 +1,2 @@
 # Test-a-perceptual-phenomenon
-In this project, I investigated a classic phenomenon from experimental psychology called the Stroop Effect
+In this project, I investigated a classic phenomenon from experimental psychology called the Stroop Effect. I learnt a lot about the experiment, created a hypothesis regarding the outcome of the task, then went through the task myself. I then looked at some data collected from others who had performed the same task and computed some statistics describing the results. Finally, I interpreted my results in terms of my hypotheses.
